@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446667744 source:d:\programas\bubble\main.cpp
+	<iostream>
+
+1536031106 source:d:\programas\bubble\src\bubble.cpp
+	"bubble.h"
+
+1536031104 d:\programas\bubble\include\bubble.h
+
